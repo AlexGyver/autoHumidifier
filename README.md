@@ -11,7 +11,7 @@
 <a id="chapter-0"></a>
 ## Описание проекта
 Увлажнитель с датчиком влажности
-- Подробности в видео: https://youtu.be/TGKO33SQMXA
+- Подробности в видео: https://youtu.be/EWCFQCREO4s
 
 <a id="chapter-1"></a>
 ## Папки
