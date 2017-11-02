@@ -56,6 +56,14 @@ http://ali.pub/1z65az
 <a id="chapter-4"></a>
 ## Настройка и использование
 * [Загрузка прошивки](http://alexgyver.ru/arduino-first/) - ультра подробная статья по началу работы с Ардуино
+* Установить библиотеки в
+`C:\Program Files (x86)\Arduino\libraries\` (Windows x64)  
+`C:\Program Files\Arduino\libraries\` (Windows x86)
+* Подключить Ардуино к компьютеру
+* Запустить файл прошивки
+* Настроить (COM порт, модель Arduino NANO 328)
+* Нажать загрузить
+* Пользоваться
 
 ## Настройки в коде
     DHTTYPE DHT11  // используемый датчик, DHT11 или DHT22
