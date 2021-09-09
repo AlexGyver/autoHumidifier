@@ -30,21 +30,21 @@
 
 <a id="chapter-3"></a>
 ## Материалы и компоненты
-* Испаритель https://ali.ski/2t1_nL
-https://ali.ski/i9pkG
-* Блок питания 24В https://ali.ski/LqN10
-https://ali.ski/6YLoX
-* Испаритель + БП https://ali.ski/UP5zWB
-https://ali.ski/6blkB
-* Arduino NANO https://ali.ski/tmUgl
-* Датчик DHT11 https://ali.ski/oTfbx
-* Датчик DHT22 https://ali.ski/mddtW
-* MOSFET модуль https://ali.ski/pONHyR
-* Понижайка https://ali.ski/Q9nGq
-* Вентилятор https://ali.ski/gRJP95
-* Потенциометры https://ali.ski/RXeuJv
-* Светодиоды https://ali.ski/hX32z
-* Резисторы https://ali.ski/aasgp
+* Испаритель https://ali.ski/Q7W4i7
+https://ali.ski/J0ZdXX
+* Блок питания 24В https://ali.ski/WLg30F
+https://ali.ski/JmB8m
+* Испаритель + БП https://ali.ski/fABFNq
+https://ali.ski/TzGv6W
+* Arduino NANO https://ali.ski/zsfMEM
+* Датчик DHT11 https://ali.ski/n8qTZ
+* Датчик DHT22 https://ali.ski/6QWNm
+* MOSFET модуль https://ali.ski/sXnrd
+* Понижайка https://ali.ski/BePrd
+* Вентилятор https://ali.ski/nZF9y
+* Потенциометры https://ali.ski/RmqBS
+* Светодиоды https://ali.ski/2--Qh1
+* Резисторы https://ali.ski/fn-qTx
 
 ## Вам скорее всего пригодится
 * [Всё для пайки (паяльники и примочки)](http://alexgyver.ru/all-for-soldering/)
